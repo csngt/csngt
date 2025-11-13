@@ -1,49 +1,55 @@
-## Hi there 
-# I am Anandu Murali  
-### 🤖 Tech Enthusiast | AI & ML Developer  
+<!--  ──────────────────────────────── -->
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/anandu-murali/" target="_blank">Anandu Murali</a></h1>
+<h3 align="center">🤖 Tech Enthusiast | AI & ML Developer </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+Developer+%7C+SQL+%7C+Web+Tech;Always+Exploring+New+Tech+💡">
+</p>
 
 ---
 
-### 🛠️ Languages and Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- 🔭 Currently working on **AI and Machine Learning projects**  
+- 🌱 Continuously learning **Deep Learning, Data Science, and Web Tech**  
+- 🎯 Goal: Build real-world **AI-driven solutions** that make impact  
+- ⚡ Fun Fact: I love turning data into intelligence
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandu-murali/)  
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,html,css,sqlite,c,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-### 📫 Reach Me  
-📧 **anandumurali71@gmail.com**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandumurali&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandumurali&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandumurali&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
-![Anandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandumurali&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandumurali&layout=compact&theme=tokyonight)
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandu-murali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-⭐ From [Anandu Murali](https://github.com/anandumurali)
+---
 
+### 📫 Reach Me
+<p align="center">
+  📧 <b>anandumurali71@gmail.com</b>
+</p>
 
-<!--
-**csngt/csngt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1e90ff&height=90&section=footer"/>
+</p>

@@ -1,6 +1,6 @@
 <!--  ──────────────────────────────── -->
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/anandu-murali/" target="_blank">Anandu Murali</a></h1>
-<h3 align="center">🤖 Tech Enthusiast | AI & ML Developer </h3>
+<h1 align="center"><a href="https://www.linkedin.com/in/anandu-murali/" target="_blank">Anandu Murali</a></h1>
+<h3 align="center"> Tech Enthusiast | AI & ML Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+Developer+%7C+SQL+%7C+Web+Tech;Always+Exploring+New+Tech+💡">
